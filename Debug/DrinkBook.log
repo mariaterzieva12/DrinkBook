@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  User.cpp
+D:\maria\DrinkBook\DrinkBook\String.h(24,15): warning C4305: '=': truncation from 'int' to 'char'
+D:\maria\DrinkBook\DrinkBook\String.h(24,11): warning C4309: '=': truncation of constant value
+D:\maria\DrinkBook\DrinkBook\String.h(32,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\maria\DrinkBook\DrinkBook\String.h(56,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
